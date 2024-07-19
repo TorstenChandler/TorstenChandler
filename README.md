@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## Data scientist with a background in health economics
-Extensive academic and professional experience in data analysis, data management, economic evaluation, modelling, and research.
+ 👌Extensive academic and professional experience in data analysis, data management, economic evaluation, modelling, and research.
 
 What have I been up to? 
 
