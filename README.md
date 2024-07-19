@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Data scientist specialising in health economics.
+Data scientist with a background in health economics.
 Extensive academic and professional experience in data analysis, data management, economic evaluation, modelling, and research.
 
 What have I been up to? 
