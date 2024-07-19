@@ -16,3 +16,6 @@ regression, Random Forest, and XGBoost)
 
  ⚡Journaling app built in Streamlit that visualises journal data based on user 
 selected date ranges
+
+
+🔗 linkedin.com/in/torstenchandler
